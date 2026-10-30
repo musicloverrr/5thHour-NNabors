@@ -15,7 +15,7 @@
 #It is up to you to figure out the calculation for an accurate BMI reading and tying it to
 #the right classification
 import random
-Height = int(input("enter your centemeters: "))
+Height = int(input("enter your centimeters: "))
 Weight = int(input("enter your kilograms: "))
 print(Height)
 print(Weight)
